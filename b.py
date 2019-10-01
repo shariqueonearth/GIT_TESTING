@@ -4,6 +4,7 @@ import os
 def dosomething():
     siz =  os.path.getsize("b.py")/1024
     print(f'Size of the file is: {siz} Kilobytes')
+    print('Javscript is sed')
 
 
 dosomething()
