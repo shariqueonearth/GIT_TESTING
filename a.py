@@ -1,6 +1,6 @@
 #Just a python script that does nothing
 
 def doNothing():
-    pass
+    print("Oops i messed Up")
 
 doNothing()
