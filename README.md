@@ -3,16 +3,18 @@ Let's help you submit your first Pull Request.
 Once your pull request is being merged, your profile will be visible in the Submissions section of this page. For this exercise you'll be adding a new entry to the source code of this website with your profile details. Excited?  let's begin! :sparkles:
 ## Step 1
 Goto the GitHub repository of this project and fork the project to your account. Click on the fork button on the top right corner of the repository page to do it. Once done, GitHub will take you to the forked copy in your account.
+<br/>
 [TEST REPOSITORY](https://github.com/sagewhocodes/GIT-TESTING)
 ## Step 2
-Clone the forked repository to your local machine. Click on the big green button saying "Clone or download" and copy the https url of your repository. Fire up the terminal (on linux systems ctrl+alt+t. on Windows open the Git-bash ) navigate to your desired directory and type the following command. Replace the link with the clone URL of your repository and hit *Enter.
+Clone the forked repository to your local machine. Click on the big green button saying "Clone or download" and copy the https url of your repository. Fire up the terminal (on linux systems ctrl+alt+t. on Windows open the Git-bash ) navigate to your desired directory and type the following command. Replace the link with the clone URL of your repository and hit Enter.
+
 *git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME_HERE* 
 
 ## Step 3
 Let's start working on the changes required now! First cd into the cloned folder by typing the following command.
 cd YOUR_REPO_NAME_HERE
 
-Now, Before jumping in to the code, make sure you're working on a different branch and not in master. To create a new branch, from the terminal inside your current project directory type the following command.
+Now, Before jumping in to the code, make sure you're working on a different branch and not in master. To create a new branch, from the terminal inside your current project directory type the following command. 
 
 *git branch YOUR_BRANCH_NAME_HERE*
 
@@ -27,6 +29,7 @@ Open this file in your favourite editor and fill the details as below in the fro
 YOUR_USER_NAME.md
 ---
 username: YOUR_USER_NAME
+
 fullname: YOUR_FULL_NAME
 ---
 
