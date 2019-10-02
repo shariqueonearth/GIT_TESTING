@@ -34,14 +34,14 @@ fullname: YOUR_FULL_NAME
 Donot forget that the hyphens "---" are also part of the file. Once you finish adding the content, save the file.
 
 ## Step 5
-Commit the changes with a suitable commit message. First we need to stage all the changes we made. Open the terminal inside the project directory and execute following commands.<br/>
+Commit the changes with a suitable commit message :heavy_check_mark: . First we need to stage all the changes we made. Open the terminal inside the project directory and execute following commands.<br/>
 `git add .`
 
 The above command stages all the changes, now lets commit it with a suitable message.
 `git commit -m "YOUR_COMMIT_MESSAGE"`
 
 ## Step 6
-Let's push the changes to your repository! execute the following command to push all the changes to the forked copy in your GitHub account.<br/>
+Let's push the changes to your repository! :arrow_up: execute the following command to push all the changes to the forked copy in your GitHub account.<br/>
 `git push -u origin YOUR_BRANCH_NAME`
 
 ## Step 7
