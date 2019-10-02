@@ -1,4 +1,4 @@
-# Hello Developers! :wave:
+# Hello Coders! :wave:
 ## It's HacktoberFest!
 ![Image](/assets/git.jpg)
 
