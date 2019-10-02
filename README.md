@@ -1,6 +1,6 @@
-# Hello Developers!  
+# Hello Developers! :wave:	 
 Let's help you submit your first Pull Request.
-Once your pull request is being merged, your profile will be visible in the Submissions section of this page. For this exercise you'll be adding a new entry to the source code of this website with your profile details. Excited?  let's begin!
+Once your pull request is being merged, your profile will be visible in the Submissions section of this page. For this exercise you'll be adding a new entry to the source code of this website with your profile details. Excited?  let's begin! :sparkles:
 ## Step 1
 Goto the GitHub repository of this project and fork the project to your account. Click on the fork button on the top right corner of the repository page to do it. Once done, GitHub will take you to the forked copy in your account.
 [TEST REPOSITORY](https://github.com/sagewhocodes/GIT-TESTING)
@@ -49,4 +49,4 @@ Once you fill in the commit message and comment click on submit pull request.
 and you are all done!  
 Wait for a reviewer to review your file and merge it to the master. Once its been successfully merged, your profile will be visible in the submissions tab. 
 
-## Congratulations You Have succesfully submitted your first Pull Request :) 
+## Congratulations You Have succesfully submitted your first Pull Request :tada: :tada:
