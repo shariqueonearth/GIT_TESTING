@@ -1,6 +1,6 @@
 # Hello Developers! :wave:
 ## It's HacktoberFest!
-[](https://ibb.co/9tg0dxY)
+[Image](/assets/git.jpg)
 
 Let's help you submit your first Pull Request.
 Once your pull request is being merged, your profile will be visible in the Submissions section of this page. For this exercise you'll be adding a new entry to the source code of this website with your profile details. Excited?  let's begin! :sparkles:
