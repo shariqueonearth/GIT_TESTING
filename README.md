@@ -27,11 +27,10 @@ It should look like YOUR_USER_NAME.md eg: sagewhocodes.md
 Open this file in your favourite editor and fill the details as below in the frontmatter of the markdown file.
 
 YOUR_USER_NAME.md
----
+
 username: YOUR_USER_NAME
 
 fullname: YOUR_FULL_NAME
----
 
 Donot forget that the hyphens "---" are also part of the file. Once you finish adding the content, save the file.
 
